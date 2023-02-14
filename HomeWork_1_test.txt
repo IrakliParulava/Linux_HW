@@ -1,0 +1,5 @@
+   0 cd .. && mkdir /home/animals && cd /home/animals && mkdir dogs cats fish && touch dogs/pluto.txt cats/garfield.txt fish/nemo.txt && touch /tmp/adam.txt && mkdir /home/humans && cp -r /tmp/adam.txt /home/humans && touch /tmp/evA.txt && mv /tmp/evA.txt /opt/eve.txt && mv /opt/eve.txt /home/humans
+   1 free /home
+   2 tree /home
+   3 history
+   4 history > history.txt
